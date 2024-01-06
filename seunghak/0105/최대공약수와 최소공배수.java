@@ -5,6 +5,7 @@ class Solution {
         return new int[]{gcd, lcm};
     }
 
+    //유클리드 호재법
     private int gcd(int a, int b) {
         while (b != 0) {
             int r = a % b;
