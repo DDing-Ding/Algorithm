@@ -1,9 +1,9 @@
 # ☀️ 띵딩 알고리즘 스터디
 
 ## 💻 Member
-| Name|[김민기](https://github.com/dangnak2) | [이승학](https://github.com/leeseunghakhello) | [박서연](https://github.com/psyeon1120) | [박소정](https://github.com/sojungpp) | [장채은](https://github.com/chaerlo127) | [차유상](https://github.com/chayoosang) |
-| :------: | :--------------------------------------------: | :--------------------------------------: | :----------------------------------: | :------------------------------------: | :--------------------------------------: | :--------------------------------------: |
-| Language |                      Java                       |                  Java                  |                 Java                 |                  Java                  |                   Java                   |                  Swift                   |
+| Name|[김민기](https://github.com/dangnak2) | [이승학](https://github.com/leeseunghakhello) | [박서연](https://github.com/psyeon1120) | [박소정](https://github.com/sojungpp) | [장채은](https://github.com/chaerlo127) | [차유상](https://github.com/chayoosang) | [김초원](https://github.com/ryr0121) |
+| :------: | :--------------------------------------------: | :--------------------------------------: | :----------------------------------: | :------------------------------------: | :--------------------------------------: | :--------------------------------------: | :--------------------------------------: |
+| Language |                      Java                       |                  Java                  |                 Java                 |                  Java                  |                   Java                   |                  Swift                   |                  Swift                   |
 <br>
 
 ## 🤝🏻 Convention Rules
