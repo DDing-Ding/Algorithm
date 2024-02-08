@@ -40,7 +40,7 @@ public class Main{
         // 중앙값
         System.out.println(ar.get(((int)ar.size()/2)));
         // 최빈값
-        System.out.println(li.size() == 0 ? 0 : (li.size() == 1 ? li.get(0) : li.get(1)));
+        System.out.println(li.size() == 1 ? li.get(0) : li.get(1));
         // 범위
         System.out.println(Math.abs(ar.get(ar.size()-1)-ar.get(0)));
     }
