@@ -1,0 +1,20 @@
+// [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/12941) 
+
+import java.util.*;
+
+class Solution{
+    public int solution(int[] A, int[] B){
+        int answer = 0;
+        PriorityQueue<Integer> qA = new PriorityQueue<>();
+        PriorityQueue<Integer> qB = new PriorityQueue<>(Collections.reverseOrder());
+        for(int i=0; i<A.length; i++){
+            qA.add(A[i]);
+            qB.add(B[i]);
+        }
+
+        while(!qA.isEmpty()){
+            answer += qA.poll() * qB.poll();    
+        }
+        return answer;
+    }
+}
