@@ -1,0 +1,8 @@
+-- [문제 링크](https://school.programmers.co.kr/learn/courses/30/lessons/276035) 
+
+SELECT DISTINCT ID, EMAIL, FIRST_NAME, LAST_NAME
+FROM DEVELOPERS D
+JOIN SKILLCODES S
+ON S.CODE & D.SKILL_CODE
+WHERE S.CATEGORY = 'Front End'
+ORDER BY ID ASC;
